@@ -1,4 +1,4 @@
-# The Sparsely Gated Mixture of Experts Layer for PyTorch
+# The Sparsely Gated Mixture of Experts Layer for PyTorch by val
 
 
 ![source: https://techburst.io/outrageously-large-neural-network-gated-mixture-of-experts-billions-of-parameter-same-d3e901f2fe05](https://miro.medium.com/max/1000/1*AaBzgpJcySeO1UDvOQ_CnQ.png)
